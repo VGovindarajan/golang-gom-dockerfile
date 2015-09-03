@@ -1,0 +1,5 @@
+gom 'github.com/twinj/uuid', :commit => '70cac2bcd273ef6a371bb96cde363d28b68734c3' 
+gom 'github.com/cihub/seelog', :commit => 'c510775bb50d98213cfafca75a4bc5e3fddc8d8f'
+gom 'github.com/jmoiron/sqlx', :commit => '3a92b1fd96032c4490fa618370fbf98ec69b680c'
+gom 'github.com/codegangsta/negroni', :commit => 'c7477ad8e330bef55bf1ebe300cf8aa67c492d1b'
+gom 'github.com/lib/pq', :commit => 'b269bd035a727d6c1081f76e7a239a1b00674c40'
